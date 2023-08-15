@@ -1,0 +1,22 @@
+{
+  "name": "uiverse-react",
+  "version": "1.0.0",
+  "description": "First npm package",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitu2404/uiverse-react.git"
+  },
+  "keywords": [
+    "jatin"
+  ],
+  "author": "Jatin Ahluwalia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jitu2404/uiverse-react/issues"
+  },
+  "homepage": "https://github.com/jitu2404/uiverse-react#readme"
+}
