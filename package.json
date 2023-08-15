@@ -1,6 +1,6 @@
 {
   "name": "react-uiverse",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "First npm package",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
